@@ -23,6 +23,7 @@ The primary objective of this project is to transform raw sales data into a clea
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/ce058f33-47dd-4be0-bf5f-8bfa7e68cbc1" />
 
----
+<br>
+<br>
 
 > **Note:** For the most accurate representation and full interactive experience, please download and open the dashboard using the desktop version of Microsoft Excel.
