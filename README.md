@@ -1,6 +1,6 @@
 # Dahiyah's Dashboard Portfolio 
 
-Welcome to my dashboard portfolio! ! This repository showcases my data visualisation projects created across different industries and business contexts.
+Welcome to my dashboard portfolio! This repository showcases my data visualisation projects created across different industries and business contexts.
 
 Each project focuses on transforming raw data into interactive and insightful dashboards that support data exploration and decision-making. The dashboards are created using different visualisation tools as I continue to develop my skills in data visualisation and business intelligence.
 
